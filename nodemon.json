@@ -1,0 +1,5 @@
+{
+    "ext": "ts,json",
+    "delay": 2000,
+    "exec": "ts-node ./script/main.ts"
+}
